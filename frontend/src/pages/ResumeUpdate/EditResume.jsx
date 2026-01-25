@@ -1,7 +1,11 @@
-export default function EditResume() {
+import React from 'react'
+
+function EditResume() {
   return (
     <div>
-      Update Resume
+      Edit Resume
     </div>
   )
 }
+
+export default EditResume
